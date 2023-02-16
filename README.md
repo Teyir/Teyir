@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+    <a href="https://github.com/Teyir?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/Teyir?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
     <a href="https://github.com/Teyir?tab=repositories&language=css" target="_blank"><img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
     <a href="https://github.com/Teyir?tab=repositories&language=javascript" target="_blank"><img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
@@ -15,6 +15,7 @@
     <a href="https://github.com/Teyir?tab=repositories&language=csharp" target="_blank"><img alt="c#" src="https://img.shields.io/badge/-Csharp-239120?style=flat-square&logo=csharp&logoColor=white"></a>
     <a href="https://github.com/Teyir?tab=repositories&language=csharp" target="_blank"><img alt="c++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></a>
     <a href="https://github.com/Teyir?tab=repositories&language=sql" target="_blank"><img alt="sql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
+        <a href="https://github.com/Teyir?tab=repositories&language=dart" target="_blank"><img alt="sql" src="https://img.shields.io/badge/-DART-4479A1?style=flat-square&logo=dart&logoColor=white"></a>
 </p>
 
 
